@@ -60,7 +60,7 @@ export default function CallToAction() {
 
       <footer className="max-w-7xl mx-auto mt-16 pt-8 border-t border-white/10">
         <div className="text-center text-gray-500">
-          <p>&copy; 2025 Rukmer. All rights reserved.</p>
+          <p>&copy; 2025 Rukmer Inc. All rights reserved.</p>
         </div>
       </footer>
     </section>
